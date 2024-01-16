@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bestsellers/static/css/main.53cd998f.css",
+    "main.js": "/Bestsellers/static/js/main.d2ccfcab.js",
+    "static/media/book2.jpg": "/Bestsellers/static/media/book2.bb59b99a7353898e6d34.jpg",
+    "static/media/book1.jpg": "/Bestsellers/static/media/book1.cbb42bf7befad0e89ad2.jpg",
+    "static/media/book3.jpg": "/Bestsellers/static/media/book3.9d266fc1339c91bb4344.jpg",
+    "index.html": "/Bestsellers/index.html",
+    "main.53cd998f.css.map": "/Bestsellers/static/css/main.53cd998f.css.map",
+    "main.d2ccfcab.js.map": "/Bestsellers/static/js/main.d2ccfcab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53cd998f.css",
+    "static/js/main.d2ccfcab.js"
+  ]
+}
